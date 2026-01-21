@@ -1,0 +1,23 @@
+body{
+    align-items:center;
+    display:flex;
+    justify-content:center;
+    background-color: aliceblue;
+
+}
+#btn{
+    padding:12px 24px;
+    font-size:100px;
+    color:tomato;
+    background-color: rgb(246, 252, 221);
+    border-radius:20px;
+    cursor:pointer;
+    font-weight:bold;
+    font-family: 'Poppins', sans-serif;
+}
+#demo{
+    color: black;
+    font-size:100px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
